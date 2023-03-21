@@ -1,0 +1,15 @@
+C:\Users\79308\Desktop\FinPro\bin\Debug\net7.0\FinPro.exe
+C:\Users\79308\Desktop\FinPro\bin\Debug\net7.0\FinPro.deps.json
+C:\Users\79308\Desktop\FinPro\bin\Debug\net7.0\FinPro.runtimeconfig.json
+C:\Users\79308\Desktop\FinPro\bin\Debug\net7.0\FinPro.dll
+C:\Users\79308\Desktop\FinPro\bin\Debug\net7.0\FinPro.pdb
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.csproj.AssemblyReference.cache
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.AssemblyInfoInputs.cache
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.AssemblyInfo.cs
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.csproj.CoreCompileInputs.cache
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.dll
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\refint\FinPro.dll
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.pdb
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\FinPro.genruntimeconfig.cache
+C:\Users\79308\Desktop\FinPro\obj\Debug\net7.0\ref\FinPro.dll
