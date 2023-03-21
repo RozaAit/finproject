@@ -1,11 +1,11 @@
-﻿  string[] M;
-            Console.WriteLine("Введите массив строк через пробел");
-            string stroka = Console.ReadLine();
-            M = stroka.Split(' ');
-            var result = new string[M .Length];
-            string[] array1 = M;
-            string[] array2 = result;
-            void SecondArrayWithIF(string[] array1, string[] array2)
+﻿string[] M;
+Console.WriteLine("Введите массив строк через пробел");
+string stroka = Console.ReadLine();
+M = stroka.Split(' ');
+var result = new string[M .Length];
+string[] array1 = M;
+string[] array2 = result;
+void SecondArrayWithIF(string[] array1, string[] array2)
 {
     int count = 0;
     for (int i = 0; i < array1.Length; i++)
